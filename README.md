@@ -1,1 +1,1 @@
-Powershell Skripte zum Administrieren einer AD
+Skriptsammlung zur Vereinfachung von Administration und Handhabung
